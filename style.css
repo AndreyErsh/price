@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Museo";
-  src: url("/fonts/Museo.ttf");
+  src: url("./fonts/Museo.ttf");
 }
 
 @font-face {
   font-family: "MuseoSansCyrl-500";
-  src: url("/fonts/MuseoSansCyrl-500.ttf");
+  src: url("./fonts/MuseoSansCyrl-500.ttf");
 }
 
 body {
